@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kedar-damle
+- 👋 Hi, I’m @kedardamle
 - 👀 I’m interested in Operating Systems, Compilers among other things
 - 🌱 I’m currently pursuing MS-Comp Sci at University of Texas, Austin
 - 📫 How to reach me ... kdamle@utexas.edu
